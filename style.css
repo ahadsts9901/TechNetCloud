@@ -537,4 +537,5 @@ body {
     height: 80px;
     width: 80px;
     text-align: left;
+    object-fit: cover;
 }
